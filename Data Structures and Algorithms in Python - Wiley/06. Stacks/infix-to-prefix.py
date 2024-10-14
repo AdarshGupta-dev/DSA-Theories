@@ -1,4 +1,4 @@
-from Stacks import ArrayStack
+from Stack import ArrayStack
 
 
 def get_precedence(operator: str) -> int:
